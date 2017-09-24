@@ -8,7 +8,7 @@ namespace ERMFileImporter.BLL.Parser
         public EnergyModel ParseLine(string line)
         {
             var data = line.Split(',');
-            var medate = data[3];
+            
             return new EnergyModel()
             {
                 MeterPoint = data[0],
