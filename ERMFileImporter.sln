@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERMFileImporter", "ERMFileImporter\ERMFileImporter.csproj", "{5F286F1A-9796-4150-BC24-67168E7D2B06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERMFileImporter.Test", "ERMFileImporter.Test\ERMFileImporter.Test.csproj", "{DD8C7544-A6EF-4D63-A032-B1F4DA49044A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5F286F1A-9796-4150-BC24-67168E7D2B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F286F1A-9796-4150-BC24-67168E7D2B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F286F1A-9796-4150-BC24-67168E7D2B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD8C7544-A6EF-4D63-A032-B1F4DA49044A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8C7544-A6EF-4D63-A032-B1F4DA49044A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8C7544-A6EF-4D63-A032-B1F4DA49044A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8C7544-A6EF-4D63-A032-B1F4DA49044A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
